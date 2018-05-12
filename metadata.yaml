@@ -1,0 +1,57 @@
+_repo: The-TempestThe-Works-of-William-Shakespeare--Cambridge-Edition---9-vols.-_23042
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  editors:
+  - agent_name: Glover, John, librarian of Trinity College, Cambridge
+    gutenberg_agent_id: '25743'
+    url: http://www.gutenberg.org/2009/agents/25743
+  - agent_name: Clark, William George
+    aliases:
+    - Clark, W. G. (William George)
+    - Clarke, William George
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '25742'
+    url: http://www.gutenberg.org/2009/agents/25742
+description: The Tempest is a play by William Shakespeare, believed to have been written
+  in 1610-11, and thought by many critics to be the last play that Shakespeare wrote
+  alone. It is set on a remote island, where Prospero, the exiled Duke of Milan, plots
+  to restore his daughter Miranda to her rightful place, using illusion and skillful
+  manipulation. He conjures up a storm, the eponymous tempest, to lure to the island
+  his usurping brother Antonio and the complicit Alonso, King of Naples. There his
+  machinations bring about the revelation of Antonio's low nature, the redemption
+  of Alonso.
+gutenberg_issued: '2007-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political refugees -- Drama'
+- !lcsh 'Islands -- Drama'
+- !lcc 'PR'
+- !lcsh 'Shipwreck victims -- Drama'
+- !lcsh 'Tragicomedy'
+- !lcsh 'Fathers and daughters -- Drama'
+- !lcsh 'Magicians -- Drama'
+- !lcsh 'Spirits -- Drama'
+title: 'The Tempest
+
+  The Works of William Shakespeare [Cambridge Edition] [9 vols.]'
+url: http://www.gutenberg.org/ebooks/23042
